@@ -1,7 +1,7 @@
 # reddit_bot
 ### Big things start small...
 
-This bot will create a value for his creator..
+This bot will create a value for his creator.. <br>
 Bot which will automatically schedule post in reddit platform...
 
 
